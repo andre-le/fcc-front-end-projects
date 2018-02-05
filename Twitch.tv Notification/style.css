@@ -1,0 +1,74 @@
+body{
+  background-image: url(https://digit.hbs.org/wp-content/uploads/sites/2/2015/10/Twitch-Logo-2-400x200.jpg);
+}
+
+#header{
+  background-color: white;
+}
+
+h1{
+  font-family: Comic Sans MS;
+}
+
+.des{
+  font-family: Lucida Grande;
+  color: #a00c0c;
+}
+
+.btn-purple {
+    color: #f8f8f8;
+    background-color: #e090ed;
+    border-color: #e090ed;
+}
+
+.btn-purple:hover {
+    color: #fff;
+    background-color: #89219b;
+    border-color: #89219b;
+}
+
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu button {
+    
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    width: 175px;
+    border-radius: 0px;
+}
+
+.panel{
+  background-color: #e090ed;
+}
+
+.name{
+  font-size: 25px;
+  font-family: Book Antiqua;
+}
+
+.status{
+  font-size: 25px;
+  font-family: Gadget;
+}
+
+.red{
+  color: #91012c;
+}
+
+.green{
+  color: #26e03b;
+}
+
+.view{
+  font-family: Gadget;
+  font-size: 20px;
+}
+
+.label{
+  font-family: courier;
+  font-size: 21px;
+}

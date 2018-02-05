@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  height: 700px;
+}
+
+h1{
+  font-family: Arial Rounded MT Bold;
+}
+
+h3{
+  font-family: Lucida Grande;
+}
+
+.count{
+  font-family: Copperplate, Monospace;
+  font-size: 28px;
+}
+
+.color{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  border: solid 3px black;
+  
+}

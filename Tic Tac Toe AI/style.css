@@ -1,0 +1,50 @@
+body{
+  height: 800px;
+  background-image: url('http://www.mvpkplan.com/sites/default/files/background-tic-tac-toe.jpg');
+}
+
+h1{
+  font-family: 'Lato';
+}
+
+h3{
+  font-family: 'Lobster';
+}
+
+.info, .status{
+  font-family: 'Open Sans';
+  font-size: 28px;
+}
+
+#x, #o{
+  font-family: 'Finger Paint';
+  font-size: 28px;
+}
+
+sqr{
+   cursor: pointer;
+}
+
+.square1, .square2, .square3, .square4{
+  border-style: solid;
+  border-color: #000000 #000000;
+  height: 180px;
+}
+
+.box{
+  width: 600px;
+}
+
+.blue{
+  color: #007FFF;
+}
+
+.red{
+  color: #800000;
+}
+
+.move{
+  text-align: center;
+  font-family: 'Finger Paint';
+  font-size: 100px; 
+}
