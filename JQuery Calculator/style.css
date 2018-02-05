@@ -1,0 +1,61 @@
+body{
+  background-color: #FFDA03;
+}
+
+h1{
+  font-family: 'Ubuntu';
+  font-size: 72px;
+}
+
+h3{
+  font-family: 'BioRhyme';
+}
+
+.box{
+  background-color:black;
+  color: white;
+}
+
+.cal{
+  border:1px solid black;
+  width: 442px;
+}
+
+.text{
+  font-family: 'Orbitron';
+  font-size: 72px;
+}
+
+.result{
+  font-family: 'Orbitron';
+  font-size: 64px;
+}
+
+.number{
+  font-size: 24px;
+  padding: 16px 32px;
+  width: 80px;
+  height: 68px;
+  background-color: #DCDCDC;
+  border: solid 1px black;
+}
+.calculate{
+  width: 100px;
+  height: 68px;
+  font-size: 24px;
+  background-color: #DCDCDC;
+  border: solid 1px black;
+}
+
+.red{
+  background-color: #E21313;
+}
+
+.zero{
+  width: 160px;
+}
+
+.signature{
+  font-size: 16px;
+  font-family: 'Inconsolata';
+}
