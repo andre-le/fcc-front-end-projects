@@ -1,0 +1,18 @@
+h1{
+  font-size: 58px;
+  font-family: Palatino Linotype;
+}
+.result{
+  width: 1000px;
+  height: 100px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Gadget;
+  border-radius: 12px;
+  border: 0px;
+  cursor: pointer;
+}
+ul {
+    list-style: square inside url("https://cdn0.iconfinder.com/data/icons/socialize-part-3-icons-set/128/wikipedia.png");
+  font-size:10px;
+}

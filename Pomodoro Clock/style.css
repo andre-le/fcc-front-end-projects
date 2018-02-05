@@ -1,0 +1,26 @@
+body{
+  background-image: url('http://www.10000yearclock.net/img/bg.jpg');
+}
+h1{
+  font-family: Fantasy;
+  font-size: 72px;
+}
+h2{
+  font-family: cursive;
+  font-size: 28px;
+}
+
+#showtime{
+  font-family: Comic Sans MS;
+  font-size: 128px;
+}
+
+#showbreak{
+  font-family: Comic Sans MS;
+  font-size: 128px;
+}
+
+.label{
+  font-family: Verdana;
+  font-size: 32px;
+}
